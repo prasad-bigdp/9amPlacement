@@ -1,0 +1,12 @@
+1. what is internet?
+    network of networks. it became popular because of WWW
+2. How it works?
+Client search For server , first it recahes DNS and goes for server and request the website and server response with html,css,js
+3. Flow of any software/product
+  -- UI/UX Design (figma)
+  -- Frontend(HTML,CSS,SCSS,JS,TS,Bootstrap,React,JQuery,tailwind,Angular,Material,Vue,JEST)
+  -- Backend(NodeJS-- Express Js, PHP- laravel,Java-spring, python-django,C#- .net)
+  -- Databases(MYSQL,MSSQL server,Oracle,SQL lite,postgresql,mongodb,astra db, couch db,redis,cassandra)
+  -- Testing(selenium,manual)
+  -- Deploy( AWS,Azure, other)
+  -- Maintainence(Docker,Jetkins,CI/CD pipelines)
