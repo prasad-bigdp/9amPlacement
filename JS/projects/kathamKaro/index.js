@@ -53,3 +53,4 @@ function displayData (arr)
         input.value=''
     })
 }
+
