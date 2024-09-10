@@ -1,0 +1,10 @@
+.movies{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.movie{
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 5px 5px black;
+}

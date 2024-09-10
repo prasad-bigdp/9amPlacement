@@ -1,0 +1,17 @@
+React is js library for user interfaces developed by facebook
+web -- react js, framework -- next js
+mobile -- react native
+features:
+  -- components
+  -- JSX
+  -- one way data binding
+  -- virtual DOM
+  -- SPA
+create react application: npx create-react-app app-name /
+npm create vite@latest and select react and npm install 
+
+
+component:
+
+it is the logical division of UI.
+A component can be defined using class or function
