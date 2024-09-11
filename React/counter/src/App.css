@@ -1,0 +1,19 @@
+.counter{
+  height: 50vh;
+  width: 50vw;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 2px 3px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
+}
+#buttons button{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 0px 20px;
+}

@@ -1,0 +1,2 @@
+1. components - functional vs class, nested
+2. props - parent to child

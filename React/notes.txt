@@ -15,3 +15,5 @@ component:
 
 it is the logical division of UI.
 A component can be defined using class or function
+ -- functional component
+ -- class component
