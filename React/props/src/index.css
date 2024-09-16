@@ -1,9 +1,0 @@
-.movies{
-display: flex;
-justify-content: space-between;
-}
-.movie{
-  padding: 50px;
-  box-shadow: 2px 3px black;
-  border-radius: 20px;
-}
