@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background-color: black;
+    color: white;
+}
+header h2 span{
+    color: aqua;
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+li{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+  color:aqua;
+      text-decoration: underline;
+  
+}
