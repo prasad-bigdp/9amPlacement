@@ -1,2 +1,8 @@
 1. components - functional vs class, nested
 2. props - parent to child
+   -- prop drilling
+   -- context API
+3. useState,useEffect
+4. useContext,useRef,useCallback,useMemo
+5. redux,redux toolkit
+6. libraries
